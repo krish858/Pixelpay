@@ -1,0 +1,7 @@
+name: Pixelpay
+version: '1.0-SNAPSHOT'
+main: org.krish858.pixelpay.Pixelpay
+api-version: '1.21'
+commands:
+  pixelpay:
+    description: Opens the Pixelpay GUI.
